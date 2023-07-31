@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: e14c18fe893b4ad4cbaee77b81455f67
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gezegenler_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 144
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed0f59e69668f439e39e9f93c1a3cc
+      internalID: -154466132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 867
+        width: 164
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e00d08077e1581498ebcce9d07adc31
+      internalID: -1501820314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 864
+        width: 151
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ff81080ea7b1459273941a1d9b831
+      internalID: -665457368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 870
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebed0d510f55845a07c96b29fc9cf4
+      internalID: -14107121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db003f0b353d27d468381b8a5f5c7270
+      internalID: -273742463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 651
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cdc7cacf5c7640b3102c2eefb8ee8
+      internalID: -2003412495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 648
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28352f82981906749993774c31b01fe6
+      internalID: -1350675707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 678
+        width: 138
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eaaebcb9c8fd8439271231fccc7120
+      internalID: -1185108155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 666
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1943740b529ba4abe235f0f4ebc047
+      internalID: 750501108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 648
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c5fb48eed92147be1d7b2bab973ad
+      internalID: -536826338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 463
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53b984489b91a489d0e2c6d82762ff
+      internalID: 510440676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 456
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de1ccf9cb2fb0a4e8cd78fa1bee4f8f
+      internalID: 487717891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 462
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0da4a85c050343814848475762d02
+      internalID: 1551847949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gezegenler_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 444
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a388d4d42a0e4a97864f109d540da
+      internalID: 261092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gezegenler_49: -255919800
+      Gezegenler_4: -273742463
+      Gezegenler_37: -481249652
+      Gezegenler_6: -536826338
+      Gezegenler_7: -2003412495
+      Gezegenler_19: -1287687918
+      Gezegenler_5: -1350675707
+      Gezegenler_52: 2082886513
+      Gezegenler_18: 287299745
+      Gezegenler_11: 487717891
+      Gezegenler_33: -243270651
+      Gezegenler_22: -1232613082
+      Gezegenler_14: -474834094
+      Gezegenler_32: -1425889028
+      Gezegenler_30: 477350460
+      Gezegenler_16: 1108581468
+      Gezegenler_34: -444992479
+      Gezegenler_36: 1434409945
+      Gezegenler_44: 2074441716
+      Gezegenler_38: 1718271795
+      Gezegenler_12: 510440676
+      Gezegenler_29: -508601155
+      Gezegenler_40: 776551285
+      Gezegenler_53: 347371529
+      Gezegenler_3: -14107121
+      Gezegenler_0: -154466132
+      Gezegenler_21: 1338239596
+      Gezegenler_26: 1011666192
+      Gezegenler_48: 630853925
+      Gezegenler_13: 1551847949
+      Gezegenler_42: -562278350
+      Gezegenler_10: 261092228
+      Gezegenler_17: 1835399095
+      Gezegenler_39: -178437515
+      Gezegenler_47: -253312226
+      Gezegenler_50: -1308960618
+      Gezegenler_35: 1612623238
+      Gezegenler_1: -1501820314
+      Gezegenler_28: -538940366
+      Gezegenler_51: 869710543
+      Gezegenler_31: 1253860034
+      Gezegenler_9: 750501108
+      Gezegenler_25: 1371539444
+      Gezegenler_54: -1711471837
+      Gezegenler_8: -1185108155
+      Gezegenler_55: 1085691107
+      Gezegenler_2: -665457368
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
